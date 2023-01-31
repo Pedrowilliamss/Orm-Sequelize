@@ -41,7 +41,7 @@ class PessoaController {
     try {
         await database.Pessoas.update(novasInfos,{ where: { id:Number(id) }})
         const pessoaAtualizada = await database.Pessoas.findOne({ where: { id: Number (id) }})
-        return res.status(200).json(pessoaAtualizada)
+        return res.status.json(pessoaAtualizada)
     } catch (error) {
         return res.status(500).json(error.message)
     }

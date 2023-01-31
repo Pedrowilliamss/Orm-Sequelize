@@ -1,0 +1,6 @@
+ npx sequelize-cli model:create --name "Nome da tabela" --attributes "Nome do atributo:tipo do atributo","..." (cria uma nova model)
+ npx sequelize-cli db:migrate  (Realiza a migração para o banco de dados)
+ npx sequelize-cli seed:generate --name "Nome da seed" (Cria uma seed para facilitar a população do banco)
+ npx sequelize-cli db:seed:all (Popula o banco com a seed)
+ npx sequelize-cli db:migrate:undo (volta atrás da ultima migração)
+ npx sequelize db:seed:undo (volta atrás da ultima seed)
