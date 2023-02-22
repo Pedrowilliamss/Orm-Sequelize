@@ -35,4 +35,4 @@ Para executar o projeto, siga os seguintes passos:
 4. Crie um banco de dados MySQL com o nome especificado no arquivo config/config.json.
 5. Execute as migrações do Sequelize usando o comando `npx sequelize-cli db:migrate`.
 6. Popule o banco atraves do comando `npx sequelize-cli db:seed:all`
-6. Inicie o servidor com o comando npm start.
+6. Inicie o servidor com o comando `npm start`.
