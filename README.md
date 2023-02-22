@@ -15,8 +15,7 @@ As principais funcionalidades da API incluem:
 * Adição e remoção de alunos em cursos.
 * Adição e remoção de professores em cursos.
 * Consulta dos cursos de um aluno e dos alunos de um curso.
-* Atualizar aluno.
-* Desativar Matricula de aluno.
+
 
 <h2>🛠️ Tecnologias utilizadas </h2>
 As principais tecnologias utilizadas nesse projeto são:
