@@ -25,7 +25,7 @@ Express
 Sequelize
 MySQL
 
-<h2>Como executar o projeto </h2>
+<h2>▶️ Como executar o projeto </h2>
 Para executar o projeto, siga os seguintes passos:
 
 1. Clone o repositório em sua máquina local.
