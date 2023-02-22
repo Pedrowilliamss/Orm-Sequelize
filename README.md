@@ -17,7 +17,7 @@ As principais funcionalidades da API incluem:
 * Consulta dos cursos de um aluno e dos alunos de um curso.
 * Atualizar aluno.
 * Desativar Matricula de aluno.
-* 
+
 <h2>🛠️ Tecnologias utilizadas </h2>
 As principais tecnologias utilizadas nesse projeto são:
 
